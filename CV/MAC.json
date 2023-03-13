@@ -545,6 +545,9 @@
           "name": "Mixpanel",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Product Manager"
       ]
     },
     "status": "searchingActively"
